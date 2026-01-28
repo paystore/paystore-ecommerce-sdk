@@ -25,10 +25,8 @@
 | Type | Description |
 | -- | -- |
 | feat | Use `window.open` target with named target `paystoreThreeDSAuthWindow` for authentication |
-| refactor | Remove manual polling configuration in favor of global defaults |
 
 ### shift4
 | Type | Description |
 | -- | -- |
 | feat | Use `window.open` with named target `paystoreThreeDSAuthWindow` for authentication |
-| refactor | Remove manual polling configuration in favor of global defaults |
